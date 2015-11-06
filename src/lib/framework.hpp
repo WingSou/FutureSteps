@@ -12,3 +12,5 @@
 #include "random.hpp"
 #include "utils.hpp"
 #include "streaming.hpp"
+#include "../App.h"
+#include "../Window.h"
