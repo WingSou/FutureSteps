@@ -1,7 +1,5 @@
 ﻿
 #include "lib/framework.hpp"
-#include "Window.h"
-#include "App.h"
 
 std::shared_ptr<AppEnv> App::env;
 
